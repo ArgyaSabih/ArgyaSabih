@@ -7,7 +7,13 @@
 ## Portfolio
 Feel free to visit [My Portfolio](https://argyasabih.github.io/Portfolio-Website/)😊
 ## Language and Tools
-![vscode](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/23386ba86f169c4b2505e81ad5e527d9bd66d657/icons/vscode.svg) ![HTML](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/23386ba86f169c4b2505e81ad5e527d9bd66d657/icons/html.svg) ![CSS](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/23386ba86f169c4b2505e81ad5e527d9bd66d657/icons/css.svg) ![Javascript](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/23386ba86f169c4b2505e81ad5e527d9bd66d657/icons/javascript.svg) ![NodeJS](https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/23386ba86f169c4b2505e81ad5e527d9bd66d657/icons/nodejs_alt.svg) ![ExpressJS](https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic) ![MongoDB](https://download.logo.wine/logo/MongoDB/MongoDB-Logo.wine.png)
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/23386ba86f169c4b2505e81ad5e527d9bd66d657/icons/vscode.svg" alt="vscode" width="300" height="200">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/23386ba86f169c4b2505e81ad5e527d9bd66d657/icons/html.svg" alt="HTML" width="300" height="200">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/23386ba86f169c4b2505e81ad5e527d9bd66d657/icons/css.svg" alt="CSS" width="300" height="200">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/23386ba86f169c4b2505e81ad5e527d9bd66d657/icons/javascript.svg" alt="Javascript" width="300" height="200">
+<img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/23386ba86f169c4b2505e81ad5e527d9bd66d657/icons/nodejs_alt.svg" alt="NodeJS" width="300" height="200">
+<img src="https://cdn.buttercms.com/2q5r816LTo2uE9j7Ntic" alt="ExpressJS" width="300" height="200">
+<img src="https://download.logo.wine/logo/MongoDB/MongoDB-Logo.wine.png" alt="MongoDB" width="300" height="200">
 ## "Man Jadda Wa Jada"
 >  _“Whoever strives shall succeed.”_
 
