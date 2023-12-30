@@ -7,7 +7,7 @@
 - 📫 Feel free to reach out for collaborations, discussions, or just to say hi!
   
 ## Portfolio
-Feel free to visit [My Portfolio](https://argyasabih.github.io/Portfolio-Website/){:target="_blank"}😊
+Feel free to visit <a href="https://argyasabih.github.io/Portfolio-Website/" target="_blank">My Portfolio</a>😊
 
 ## Language and Tools
 <span><img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/23386ba86f169c4b2505e81ad5e527d9bd66d657/icons/vscode.svg" alt="vscode" width="100" height="50"></span>
