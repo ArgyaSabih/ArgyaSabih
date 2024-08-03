@@ -32,7 +32,7 @@ Feel free to visit <a href="https://argyasabih.github.io/Portfolio-Website/" tar
 ![](https://github-contributor-stats.vercel.app/api?username=ArgyaSabih&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # "Man Jadda Wa Jada"
->## _“Whoever strives shall succeed.”_
+> _“Whoever strives shall succeed.”_
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
