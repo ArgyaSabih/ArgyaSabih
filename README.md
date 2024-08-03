@@ -23,10 +23,21 @@ Feel free to visit <a href="https://argyasabih.github.io/Portfolio-Website/" tar
 <img src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png" alt="ReactJS" width="100" height="100">
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" alt="NextJS" width="100" height="100"></span>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ArgyaSabih&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ArgyaSabih&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ArgyaSabih&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=ArgyaSabih&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=ArgyaSabih&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## "Man Jadda Wa Jada"
 >  _“Whoever strives shall succeed.”_
+
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 ArgyaSabih/ArgyaSabih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
