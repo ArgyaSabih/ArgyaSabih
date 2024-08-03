@@ -2,9 +2,10 @@
 
 ## About Me!
 - 🏫 Information Engineering Student at Universitas Gadjah Mada, Indonesia
-- 👀 Currently interested in Data Analytics & Cyber Security
 - 🌱 I’m currently learning Web Development
-- 📫 Feel free to reach out for collaborations, discussions, or just to say hi!
+- 👀 Currently interested in Data Analytics & Cyber Security
+- ⚡ Gelanggang Expo 2024 & Porsenigama 2024 Web Developer
+- 💬 Feel free to reach out for collaborations, discussions, or just to say hi!
   
 ## Portfolio
 Feel free to visit <a href="https://argyasabih.github.io/Portfolio-Website/" target="_blank">My Portfolio</a>😊
