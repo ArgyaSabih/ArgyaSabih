@@ -23,6 +23,7 @@ My rule: code is not finished until someone who did not write it can use it.
 
 ## Impact in numbers
 
+| Number | Description |
 | --- | --- |
 | **689,692** | views on the official PIONIR 2025 orientation site, built in a 7-member team for 10,000+ new UGM students |
 | **195,474** | views on Porsenigama 2024 |
