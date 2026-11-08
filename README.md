@@ -17,8 +17,6 @@
 
 I have been building for the web for 3+ years. I shipped 6 production websites, most of them used by UGM students, and I led the web team as Sub-Coordinator on two events. Lately I am pushing past the browser into computer vision, machine learning and security analytics.
 
-My rule: code is not finished until someone who did not write it can use it.
-
 > *"Whoever strives shall succeed."*
 
 ## Impact in numbers
